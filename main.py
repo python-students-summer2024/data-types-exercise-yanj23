@@ -9,8 +9,11 @@ def main():
     """
     calculate_profit()
     # calculate_quotient_and_remainder()
+    calculate_quotient_and_remainder()
     # calculate_miles_per_gallon()
+    calculate_miles_per_gallon()
     # align_text()
+    align_text()
 
 
 main()
